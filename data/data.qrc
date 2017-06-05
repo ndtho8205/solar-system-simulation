@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ini">
+        <file>solarsystem.ini</file>
+    </qresource>
+</RCC>

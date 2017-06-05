@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>decTimeSpeed_black.png</file>
+        <file>decTimeSpeed_white.png</file>
+        <file>fullscreen_black.png</file>
+        <file>fullscreen_white.png</file>
+        <file>incTimeSpeed_black.png</file>
+        <file>incTimeSpeed_white.png</file>
+        <file>play_black.png</file>
+        <file>play_white.png</file>
+        <file>quit_black.png</file>
+        <file>quit_white.png</file>
+        <file>screenshot_black.png</file>
+        <file>screenshot_white.png</file>
+        <file>textures_black.png</file>
+        <file>textures_white.png</file>
+        <file>pause_black.png</file>
+        <file>pause_white.png</file>
+        <file>orbit_black.png</file>
+        <file>orbit_white.png</file>
+        <file>planet_black.png</file>
+        <file>planet_white.png</file>
+        <file>search_black.png</file>
+        <file>search_white.png</file>
+        <file>settings_black.png</file>
+        <file>settings_white.png</file>
+    </qresource>
+</RCC>
